@@ -1,7 +1,7 @@
 export let config = {
    //API_URL :'http://localhost:3000/iiest'
    //API_URL :'https://iiest-server.onrender.com/iiest'
-   API_URL :'https://iiest-server-6g2x.onrender.com/iiest'
+   API_URL :'https://iiest-server-6g2x.onrender.com/iiest/'
 }
 
 //Water test Fee
